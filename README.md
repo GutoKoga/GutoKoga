@@ -1,3 +1,7 @@
-# Sigma Geek
+# Augusto Koga
 
-Resolva Desafios, Mostre Suas Habilidades e Concorra a premios em dinheiro.
+## Hello there 🖖
+
+Bem-vindo(a) ao meu GitHUB.
+
+Aqui você encontra meus projetos e estudos em programação. 🖥️
