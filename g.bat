@@ -1,6 +1,5 @@
 git init
 git add .
-git commit -m "first commit"
+git commit -m "Repositorios"
 git branch -M main
-git remote add origin https://github.com/GutoKoga/GutoKoga.git
 git push -u origin main
