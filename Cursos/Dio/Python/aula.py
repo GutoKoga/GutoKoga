@@ -83,6 +83,9 @@ print("nome[8:14] =", nome[8:14])
 print("nome[8:14:2] =", nome[8:14:2])
 print("nome[:] =", nome[:])
 print("nome[::-1] =", nome[::-1])
-
+print(nome.replace("Augusto Ryuiti","Anderson Shinichi"))
+print(nome.count("Koga"))
+'''
 valores = input().split()
 print(f"{int(valores[0])*int(valores[1])/12:.3f}")
+'''
