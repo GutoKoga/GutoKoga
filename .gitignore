@@ -1,1 +1,3 @@
-github.bat 
+.gitignore
+github.bat
+.idea/
